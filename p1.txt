@@ -6,3 +6,6 @@ add
 hello here
 welcome to github
 make work
+hard
+wavy
+good
